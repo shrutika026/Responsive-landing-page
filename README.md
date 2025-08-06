@@ -1,1 +1,1 @@
-As part of my first task as a Web Development Intern at Prodigy Infotech, I developed a fully responsive landing page. The project features a dynamic navigation menu with hover effects and a sticky navbar that changes color upon scrolling. The landing page is designed to be mobile-friendly and built using HTML, CSS, and JavaScript for enhanced interactivity.# Responsive-landing-page
+# Responsive-landing-page
